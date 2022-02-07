@@ -21,6 +21,10 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
+#ios
+/ios/Pods
+/ios/Podfile.lock
+
 # Gradle
 /build/
 /packages/react-native-gradle-plugin/build/
