@@ -17,11 +17,11 @@ pod install
 Nothing is required from android side
 
 # Packages used
-React navigation for navigating between screens
-React native share to be able to share links on social media
-Shimmer package to have a loading effect acting as placeholder
-axios package for backend/apis communication
-Redux package for global state management
+*React navigation for navigating between screens
+*React native share to be able to share links on social media
+*Shimmer package to have a loading effect acting as placeholder
+*axios package for backend/apis communication
+*Redux package for global state management
 
 ## Project structure
 
