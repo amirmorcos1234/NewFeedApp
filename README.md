@@ -40,13 +40,13 @@ First ,Typescript is used to maintain better quality code and to have typed syst
 # Screens
 
 Mainly Two screens:
-    1. Home Screen : 
+1. Home Screen : 
     * A List of articles gathered from the api
     * A search input to be used for any preferred articles
 
-    2. Details Screen:
-    It has more details for the article itself 
-    It has a share floating button for sharing article's link
+2. Details Screen:
+    * It has more details for the article itself 
+    * It has a share floating button for sharing article's link
 
 
 
